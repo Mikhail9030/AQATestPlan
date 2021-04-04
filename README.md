@@ -53,7 +53,9 @@
 9. Появится надпись, что неправильно введено значение
 
 ### Скриншоты
-
+[Скрин1](https://github.com/Mikhail9030/AQATestPlan/blob/master/%D1%81%D0%BA%D1%80%D0%B8%D0%BD1.bmp)
+[Скрин2](https://github.com/Mikhail9030/AQATestPlan/blob/master/%D1%81%D0%BA%D1%80%D0%B8%D0%BD2.bmp)
+[Скрин3](https://github.com/Mikhail9030/AQATestPlan/blob/master/%D1%81%D0%BA%D1%80%D0%B8%D0%BD3.bmp)
 
 ## Перечень используемых инструментов с обоснованием выбора
 * Java - язык, на котором будем писать код
